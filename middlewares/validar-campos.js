@@ -21,3 +21,6 @@ const validarCampos = ( req, res = response, next ) => {
 module.exports = {
     validarCampos
 }
+
+
+//* Este middleware nos ayuda a validar los campos cuando utlizamos 'check' en nuestras rutas y les ponemos una condicion

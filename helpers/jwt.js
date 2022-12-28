@@ -29,3 +29,7 @@ module.exports = {
     generarJWT
 }
 
+
+
+//* Esta funcion nos ayuda a generar los tokens, recibe los datos con los cuales querramos crear el token
+//* (id, name, email... etc)

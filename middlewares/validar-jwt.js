@@ -34,3 +34,7 @@ const validarJWT = (req, res = response, next) => {
 module.exports = {
     validarJWT
 }
+
+
+
+//* Este middleware nos ayuda a validar los tokens y valida que sean oficiales, esto se coloca en las rutas
